@@ -16,5 +16,9 @@
 
 ## Showcase Application
 ------------------------
-## BaseCoverageAnalyzer
+## BaseCoverageAnalyzer (Perhitungan Biaya Cetak Per-Halaman)
 ![Result Base Coverage](https://github.com/user-attachments/assets/0e77e05b-767a-4158-89dd-03808542ac96)
+## SQASalaryClassification (Pengelompokkan gaji bagi profesional SQA berdasarkan kriteria tertentu)
+![Result SQASalaryClassification](https://github.com/user-attachments/assets/4dd86210-8168-40ef-aa34-9ccfce28e79e)
+## TicketPurchaseSystem (Perhitungan Penjualan Tiket)
+![Result TicketPurchaseSystem](https://github.com/user-attachments/assets/879b4286-ae62-419e-81e3-9002e4f10686)
