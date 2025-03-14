@@ -7,7 +7,7 @@
 #### 3. TicketPurchaseSystem	= Penentuan harga tiket berdasarkan hari pembelian (weekday/weekend) dan Penerapan diskon otomatis 10% untuk pembelian lebih dari 5 tiket.) 
 
 
-## Tools
+## TechnicalStack 
 ------------------------------------------------
 ![github-color-svgrepo-com](https://github.com/user-attachments/assets/eb1146d1-5aeb-499b-bd88-2535ffea34e9)
 ![java](https://github.com/user-attachments/assets/cba4f767-3b12-45d6-bbc2-3a40dcd5881d)
@@ -22,3 +22,10 @@
 ![Result SQASalaryClassification](https://github.com/user-attachments/assets/4dd86210-8168-40ef-aa34-9ccfce28e79e)
 ## TicketPurchaseSystem (Perhitungan Penjualan Tiket)
 ![Result TicketPurchaseSystem](https://github.com/user-attachments/assets/879b4286-ae62-419e-81e3-9002e4f10686)
+
+
+
+## License
+Jakarta 
+Pandu Septiandito
+Since 2025
