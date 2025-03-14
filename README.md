@@ -24,8 +24,5 @@
 ![Result TicketPurchaseSystem](https://github.com/user-attachments/assets/879b4286-ae62-419e-81e3-9002e4f10686)
 
 
-
 ## License
-Jakarta 
-Pandu Septiandito
-Since 2025
+Pandu Septiandito, Jakarta, Since 2025
