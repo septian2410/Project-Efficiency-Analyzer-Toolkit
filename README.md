@@ -3,11 +3,8 @@
 #### •	Detail Project 
 #### Menguji beberapa logika bisnis dan perhitungan dasar dari berbagai scenario, seperti :
 #### 1. Base Coverage Analysis	= Aplikasi Java yang dirancang untuk Membantu pengguna dalam menghitung estimasi biaya cetak per halaman dengan memberikan hasil yang akurat berdasarkan Base Coverage (cakupan tinta pada kertas) yang di input pengguna.
-#### 2. SQA Salary Classification	= Aplikasi Java yang dirancang untuk mengklasifikasikan gaji dan
- posisi seorang Software Quality Assurance (SQA) berdasarkan
- nilai kompetensi yang dimasukkan oleh pengguna.
-#### 3. TicketPurchaseSystem	= Aplikasi Java yang dirancang untuk Membantu pengguna 
-untuk membeli tiket berdasarkan hari (weekday atau weekend) dan jumlah tiket yang dibeli. Selain itu, program ini juga memberikan diskon 10% jika pembelian tiket lebih dari 5.
+#### 2. SQA Salary Classification	= Aplikasi Java yang dirancang untuk mengklasifikasikan gaji dan posisi seorang Software Quality Assurance (SQA) berdasarkan nilai kompetensi yang dimasukkan oleh pengguna.
+#### 3. TicketPurchaseSystem	= Aplikasi Java yang dirancang untuk Membantu pengguna untuk membeli tiket berdasarkan hari (weekday atau weekend) dan jumlah tiket yang dibeli. Selain itu, program ini juga memberikan diskon 10% jika pembelian tiket lebih dari 5.
 
 
 ## TechnicalStack 
